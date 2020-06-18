@@ -1,3 +1,3 @@
 #About me
 
-This is an abuot me project.
+This is an about me project.
